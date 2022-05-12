@@ -322,7 +322,7 @@
 <h1 align="center" style="color:#A5FFCE">🔥 GitHub Stats</h1>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fn-r&show_icons=true&locale=en&bg_color=0d1117&hide_border=true&title_color=A5FFCE&text_color=FAFFD1&icon_color=00C7BD" alt="fn-r" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fn-r&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=A5FFCE&langs_count=8&card_width=400&locale=en&layout=compact" alt="fn-r" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fn-r&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=A5FFCE&langs_count=8&card_width=300&locale=en&layout=compact" alt="fn-r" />
 </p>
 <p align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=fn-r&bg_color=0d1117&color=00C7BD&line=FAFFD1&point=A5FFCE&area_color=A5FFCE&hide_border=true"
