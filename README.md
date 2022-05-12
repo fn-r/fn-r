@@ -10,23 +10,6 @@
 <h3 align="center">Enjoy learning and experimenting with latest technologies. Always automate repetitive workflow and
     priorities more on code readability.</h3>
 
-<h3 align="center">You can contact me at:</h3>
-
-<div align="center">
-    <a href="https://twitter.com/fn_rusli" target="blank">
-        <img src="https://raw.githubusercontent.com/fn-r/svg-assets/main/svg/twitter.svg"
-        alt="twitter" />
-    </a>
-    <a href="https://linkedin.com/in/fnrusli" target="blank">
-        <img src="https://raw.githubusercontent.com/fn-r/svg-assets/main/svg/linkedin.svg"
-        alt="linkedin" />
-    </a>
-    <a href="https://angel.co/u/farahn" target="blank">
-        <img src="https://raw.githubusercontent.com/fn-r/svg-assets/main/svg/angellist.svg"
-        alt="angellist" />
-    </a>
-</div>
-
 <div valign="center" align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=fn-r&theme=dark&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&ring=A5FFCE&fire=00C7BD&sideLabels=FAFFD1&stroke=00C7BD&currStreakLabel=FAFFD1"
         alt="fn-r" />
@@ -319,10 +302,27 @@
     </tbody>
 </table>
 
+<h1 align="center" style="color:#A5FFCE">Connect with me</h1>
+
+<div align="center">
+    <a href="https://twitter.com/fn_rusli" target="blank">
+        <img src="https://raw.githubusercontent.com/fn-r/svg-assets/main/svg/twitter.svg"
+        alt="twitter" />
+    </a>
+    <a href="https://linkedin.com/in/fnrusli" target="blank">
+        <img src="https://raw.githubusercontent.com/fn-r/svg-assets/main/svg/linkedin.svg"
+        alt="linkedin" />
+    </a>
+    <a href="https://angel.co/u/farahn" target="blank">
+        <img src="https://raw.githubusercontent.com/fn-r/svg-assets/main/svg/angellist.svg"
+        alt="angellist" />
+    </a>
+</div>
+
 <h1 align="center" style="color:#A5FFCE">🔥 GitHub Stats</h1>
-<p align="left">
-  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=fn-r&show_icons=true&locale=en&bg_color=0d1117&hide_border=true&title_color=A5FFCE&text_color=FAFFD1&icon_color=00C7BD" alt="fn-r" />
-  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=fn-r&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=A5FFCE&langs_count=8&card_width=400&locale=en&layout=compact" alt="fn-r" />
+<p align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=fn-r&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=A5FFCE&langs_count=8&card_width=400&locale=en&layout=compact" alt="fn-r" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=fn-r&show_icons=true&locale=en&bg_color=0d1117&hide_border=true&title_color=A5FFCE&text_color=FAFFD1&icon_color=00C7BD" alt="fn-r" />
 </p>
 <p align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=fn-r&bg_color=0d1117&color=00C7BD&line=FAFFD1&point=A5FFCE&area_color=A5FFCE&hide_border=true"
