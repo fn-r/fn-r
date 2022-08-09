@@ -22,21 +22,21 @@
             <td width="50%" valign="top">
                 <h3 align="center">Passwrap</h3>
                 <div align="center">
-                    <a target="_blank" href="https://passwrap.netlify.app/">
+                    <a target="_blank" href="https://passwrap-ui.netlify.app/">
                         <img src="https://github.com/fn-r/portfolio/blob/main/images/gif/passwrap.gif" width="100%"
                             alt="Passwrap" />
                     </a>
                     <div align="center">
-                        <a target="_blank" href="https://github.com/fn-r/passwrap">
+                        <a target="_blank" href="https://github.com/fn-r/passwrap-ui">
                             <img src="https://custom-icon-badges.herokuapp.com/badge/-repo-A5FFCE?style=for-the-badge&logo=github&logoColor=A5FFCE&labelColor=000000"
                             alt="repo" />
                         </a>
-                        <a target="_blank" href="https://passwrap.netlify.app/">
+                        <a target="_blank" href="https://passwrap-ui.netlify.app/">
                             <img src="https://custom-icon-badges.herokuapp.com/badge/-live-00C7BD?style=for-the-badge&logo=globe&logoColor=00C7BD&labelColor=FFFFFF"
                             alt="live" />
                         </a>
                     </div>
-                    <p align="justify"><strong>HTML5, CSS3 & JavaScript</strong> - A website that helps to generate a password allowing you to better secure yourself.</p>
+                    <p align="justify"><strong>MongoDB, Express, React, Node</strong> - A fullstack web app to securely store and organize your passwords</p>
                 </div>
             </td>
             <td width="50%" valign="top">
@@ -83,28 +83,6 @@
                 </div>
             </td>
             <td width="50%" valign="top">
-                <h3 align="center">Make Mee</h3>
-                <div align="center">
-                    <a target="_blank" href="https://make-mee.netlify.app/">
-                        <img src="https://github.com/fn-r/portfolio/blob/main/images/gif/makemee.gif" width="100%"
-                            alt="Make Mee" />
-                    </a>
-                    <div align="center">
-                        <a target="_blank" href="https://github.com/fn-r/makemee">
-                            <img src="https://custom-icon-badges.herokuapp.com/badge/-repo-A5FFCE?style=for-the-badge&logo=github&logoColor=A5FFCE&labelColor=000000"
-                            alt="repo" />
-                        </a>
-                        <a target="_blank" href="https://make-mee.netlify.app/">
-                            <img src="https://custom-icon-badges.herokuapp.com/badge/-live-00C7BD?style=for-the-badge&logo=globe&logoColor=00C7BD&labelColor=FFFFFF"
-                            alt="live" />
-                        </a>
-                    </div>
-                    <p align="justify"><strong>HTML5, CSS3 & JavaScript</strong> - Responsive restaurant theme layout.</p>
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <td width="50%" valign="top">
                 <h3 align="center">Portfolio</h3>
                 <div align="center">
                     <a target="_blank" href="https://farahn.netlify.app/">
@@ -124,27 +102,6 @@
                     <p align="justify"><strong>HTML5, CSS3, SCSS & JavaScript</strong> - My portfolio site including working links to my projects and how to get in touch with me.</p>
                 </div>
             </td>
-            <td width="50%" valign="top">
-                <h3 align="center">Icy Smoothie</h3>
-                <div align="center">
-                    <a target="_blank" href="https://icy-smoothie.netlify.app/">
-                        <img src="https://github.com/fn-r/portfolio/blob/main/images/gif/icy-smoothie.gif" width="100%"
-                            alt="icy smoothie" />
-                    </a>
-                    <div align="center">
-                        <a target="_blank" href="https://github.com/fn-r/icy-smoothie">
-                            <img src="https://custom-icon-badges.herokuapp.com/badge/-repo-A5FFCE?style=for-the-badge&logo=github&logoColor=A5FFCE&labelColor=000000"
-                            alt="repo" />
-                        </a>
-                        <a target="_blank" href="https://icy-smoothie.netlify.app/">
-                            <img src="https://custom-icon-badges.herokuapp.com/badge/-live-00C7BD?style=for-the-badge&logo=globe&logoColor=00C7BD&labelColor=FFFFFF"
-                            alt="live" />
-                        </a>
-                    </div>
-                    <p align="justify"><strong>HTML5, CSS3 & Swiper JS</strong> - Shows you some eye-catching and delicious drinks.</p>
-                </div>
-            </td>
-        </tr>
     </tbody>
 </table>
 
