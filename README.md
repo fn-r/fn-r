@@ -23,7 +23,7 @@
                 <h3 align="center">Passwrap</h3>
                 <div align="center">
                     <a target="_blank" href="https://passwrap-ui.netlify.app/">
-                        <img src="https://github.com/fn-r/portfolio/blob/main/images/gif/passwrap.gif" width="100%"
+                        <img src="https://github.com/fn-r/portfolio/blob/main/images/gif/mern-passwrap.gif" width="100%"
                             alt="Passwrap" />
                     </a>
                     <div align="center">
@@ -85,21 +85,21 @@
             <td width="50%" valign="top">
                 <h3 align="center">Portfolio</h3>
                 <div align="center">
-                    <a target="_blank" href="https://farahn.netlify.app/">
-                        <img src="https://github.com/fn-r/portfolio/blob/main/images/gif/portfolio.gif" width="100%"
+                    <a target="_blank" href="https://farah-nadhirah.netlify.app/">
+                        <img src="https://github.com/fn-r/portfolio/blob/main/images/gif/react-portfolio.gif" width="100%"
                             alt="portfolio" />
                     </a>
                     <div align="center">
-                        <a target="_blank" href="https://github.com/fn-r/portfolio">
+                        <a target="_blank" href="https://github.com/fn-r/react-portfolio">
                             <img src="https://custom-icon-badges.herokuapp.com/badge/-repo-A5FFCE?style=for-the-badge&logo=github&logoColor=A5FFCE&labelColor=000000"
                             alt="repo" />
                         </a>
-                        <a target="_blank" href="https://farahn.netlify.app/">
+                        <a target="_blank" href="https://farah-nadhirah.netlify.app/">
                             <img src="https://custom-icon-badges.herokuapp.com/badge/-live-00C7BD?style=for-the-badge&logo=globe&logoColor=00C7BD&labelColor=FFFFFF"
                             alt="live" />
                         </a>
                     </div>
-                    <p align="justify"><strong>HTML5, CSS3, SCSS & JavaScript</strong> - My portfolio site including working links to my projects and how to get in touch with me.</p>
+                    <p align="justify"><strong>React & TailwindCSS</strong> - My portfolio site including working links to my projects and how to get in touch with me.</p>
                 </div>
             </td>
     </tbody>
