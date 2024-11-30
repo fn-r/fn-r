@@ -282,7 +282,7 @@
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=fn-r&show_icons=true&locale=en&bg_color=0d1117&hide_border=true&title_color=A5FFCE&text_color=FAFFD1&icon_color=00C7BD" alt="fn-r" />
 </p>
 <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=fn-r&bg_color=0d1117&color=00C7BD&line=FAFFD1&point=A5FFCE&area_color=A5FFCE&hide_border=true"
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fn-r&bg_color=0d1117&color=A5FFCE&line=FFFFFF&point=00C7BD&area_color=FAFFD1&area=true&hide_border=true"
         alt="fn-r" />
 </p>
 
